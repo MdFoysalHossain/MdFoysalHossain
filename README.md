@@ -185,6 +185,135 @@
 
 
 
+
+<!-- ========== PROGRAMMING LANGUAGES ========== -->
+<h3 align="left">🧠 Programming Languages</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        <br />JavaScript
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========== FRONTEND DEVELOPMENT ========== -->
+<h3 align="left">🎨 Frontend Development</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        <br />HTML5
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+        <br />CSS3
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        <br />React
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        <br />TailwindCSS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vitejs.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+        <br />Vite
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========== BACKEND DEVELOPMENT ========== -->
+<h3 align="left">⚙️ Backend Development</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://nodejs.org/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+        <br />NodeJS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+        <br />Express
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+        <br />MongoDB
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+        <br />Firebase
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========== TOOLS ========== -->
+<h3 align="left">🛠 Tools & Platforms</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+        <br />Git
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
+        <br />VS Code
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========== DESIGN ========== -->
+<h3 align="left">🎨 Design & Creativity</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
+        <br />Photoshop
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+        <br />Figma
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imfoysl.work@gmail.com) 
 
