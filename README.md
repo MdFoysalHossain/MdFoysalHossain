@@ -132,6 +132,10 @@
 
 
 
+<a href="https://github.com/MdFoysalHossain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFoysalHossain&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imfoysl.work@gmail.com) 
 
