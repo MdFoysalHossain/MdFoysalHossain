@@ -186,35 +186,23 @@
 
 
 
-<!-- ========== PROGRAMMING LANGUAGES ========== -->
-<h3 align="left">🧠 Programming Languages</h3>
+
+
+
+
+
+## 🛠️ Skills & Technologies
+
 <table>
+  <!-- ==== Frontend ==== -->
   <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-        <br />JavaScript
-      </a>
-    </td>
+    <th colspan="3" align="center">🎨 Front-End</th>
   </tr>
-</table>
-
-<br/>
-
-<!-- ========== FRONTEND DEVELOPMENT ========== -->
-<h3 align="left">🎨 Frontend Development</h3>
-<table>
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
         <br />HTML5
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-        <br />CSS3
       </a>
     </td>
     <td align="center">
@@ -229,20 +217,28 @@
         <br />TailwindCSS
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://vitejs.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
         <br />Vite
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+        <br />CSS3
+      </a>
+    </td>
+    <td align="center"></td>
   </tr>
-</table>
 
-<br/>
-
-<!-- ========== BACKEND DEVELOPMENT ========== -->
-<h3 align="left">⚙️ Backend Development</h3>
-<table>
+  <!-- ==== Backend ==== -->
+  <tr>
+    <th colspan="3" align="center">⚙️ Back-End</th>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://nodejs.org/en/" target="_blank">
@@ -262,21 +258,30 @@
         <br />MongoDB
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
         <br />Firebase
       </a>
     </td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
-</table>
 
-<br/>
-
-<!-- ========== TOOLS ========== -->
-<h3 align="left">🛠 Tools & Platforms</h3>
-<table>
+  <!-- ==== Tools ==== -->
   <tr>
+    <th colspan="3" align="center">🔧 Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        <br />JavaScript
+      </a>
+    </td>
     <td align="center">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
@@ -290,13 +295,11 @@
       </a>
     </td>
   </tr>
-</table>
 
-<br/>
-
-<!-- ========== DESIGN ========== -->
-<h3 align="left">🎨 Design & Creativity</h3>
-<table>
+  <!-- ==== Design ==== -->
+  <tr>
+    <th colspan="3" align="center">🎨 Design</th>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank">
@@ -310,6 +313,7 @@
         <br />Figma
       </a>
     </td>
+    <td align="center"></td>
   </tr>
 </table>
 
