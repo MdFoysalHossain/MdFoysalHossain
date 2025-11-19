@@ -18,10 +18,13 @@ Hi 👋 My name is Foysal Hossain
 
 ## 🛠️ Skills & Technologies
 
-<table>
+
+
+
+<table >
   <!-- ==== Frontend ==== -->
   <tr>
-    <th colspan="3" align="center">🎨 Front-End</th>
+    <th colspan="5" align="center">🎨 Front-End</th>
   </tr>
   <tr>
     <td align="center">
@@ -42,9 +45,6 @@ Hi 👋 My name is Foysal Hossain
         <br />TailwindCSS
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://vitejs.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
@@ -57,12 +57,10 @@ Hi 👋 My name is Foysal Hossain
         <br />CSS3
       </a>
     </td>
-    <td align="center"></td>
   </tr>
-
   <!-- ==== Backend ==== -->
   <tr>
-    <th colspan="3" align="center">⚙️ Back-End</th>
+    <th colspan="5" align="center">⚙️ Back-End</th>
   </tr>
   <tr>
     <td align="center">
@@ -83,9 +81,6 @@ Hi 👋 My name is Foysal Hossain
         <br />MongoDB
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
@@ -93,12 +88,34 @@ Hi 👋 My name is Foysal Hossain
       </a>
     </td>
     <td align="center"></td>
+  </tr>
+
+
+  <!-- ==== Design ==== -->
+  <tr>
+    <th colspan="5" align="center">💻 Language</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
+        <br />Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+        <br />JavaScript
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
 
   <!-- ==== Tools ==== -->
   <tr>
-    <th colspan="3" align="center">🔧 Tools</th>
+    <th colspan="5" align="center">🔧 Tools</th>
   </tr>
   <tr>
     <td align="center">
@@ -114,11 +131,13 @@ Hi 👋 My name is Foysal Hossain
       </a>
     </td>
     <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 
   <!-- ==== Design ==== -->
   <tr>
-    <th colspan="3" align="center">🎨 Design</th>
+    <th colspan="5" align="center">🎨 Design</th>
   </tr>
   <tr>
     <td align="center">
@@ -134,16 +153,28 @@ Hi 👋 My name is Foysal Hossain
       </a>
     </td>
     <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 
 </table>
 
-<br/>
 
 
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=MdFoysalHossain&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdFoysalHossain&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=MdFoysalHossain&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFoysalHossain&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
